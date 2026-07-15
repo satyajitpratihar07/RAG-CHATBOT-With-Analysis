@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🤖 RAG ChatBot
-### Intelligent Document-Based AI Assistant with Retrieval-Augmented Generation
+ 🤖 RAG ChatBot
+# Intelligent Document-Based AI Assistant with Retrieval-Augmented Generation
 
 <p align="center">
   Ask Questions • Upload Documents • AI-Powered Answers • Semantic Search
@@ -59,14 +59,13 @@ The system processes documents, creates semantic embeddings, performs intelligen
 - Tailwind CSS
 - JavaScript
 
-## Backend
+ Backend
 
 - Python
-- FastAPI
-
+- FastAP
 ## AI Stack
 
-- LangChain
+LangChain
 - Vector Embeddings
 - Retrieval-Augmented Generation (RAG)
 - LLM Integration
@@ -145,7 +144,7 @@ RAG-ChatBot/
 
 # 🚀 Installation
 
-## Clone Repository
+# Clone Repository
 
 ```bash
 git clone https://github.com/yourusername/RAG-ChatBot.git
@@ -155,7 +154,7 @@ cd RAG-ChatBot
 
 ---
 
-## Backend
+# Backend
 
 ```bash
 cd backend
@@ -179,7 +178,7 @@ uvicorn app.main:app --reload
 
 ---
 
-## Frontend
+# Frontend
 
 ```bash
 cd frontend
@@ -207,7 +206,7 @@ UPLOAD_FOLDER=./uploads
 
 ---
 
-# 💡 Usage
+💡 Usage
 
 1. Launch the application.
 2. Upload one or more PDF documents.
@@ -217,7 +216,7 @@ UPLOAD_FOLDER=./uploads
 
 ---
 
-# 🎯 Use Cases
+🎯 Use Cases
 
 - 📚 Study Assistant
 - 🏢 Company Knowledge Base
