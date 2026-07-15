@@ -1,0 +1,14 @@
+fastapi==0.139.0
+uvicorn==0.51.0
+beautifulsoup4==4.15.0
+httpx==0.28.1
+numpy==2.5.1
+openai==2.45.0
+google-genai==2.11.0
+pyjwt==2.13.0
+email-validator
+bcrypt==5.0.0
+python-multipart==0.0.32
+pydantic==2.13.4
+pydantic-settings
+psycopg2-binary>=2.9.12
